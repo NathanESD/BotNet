@@ -47,4 +47,4 @@ Le sous Menu “Quitter le programme”
 Ce sous menu quitte le programme.
 
 Les conseils des développeurs
-Pour rester anonyme, les concepteurs vous conseils de toujours prendre le plus de précautions possible tel que vous connecter à votre serveur à partir d’un réseau anonyme de (tor), d’utiliser un VPN respectant la vie privée des utilisateurs, d'héberger son serveur dans un pays dans lequel il n’y a pas beaucoup de lois concernant l’utilisation d’internet.
+Pour rester anonyme, les concepteurs vous conseils de toujours prendre le plus de précautions possible tel que vous connecter à votre serveur à partir d’un réseau anonyme de (tor), d’utiliser un VPN, d'héberger son serveur dans un pays dans lequel il n’y a pas beaucoup de lois concernant l’utilisation d’internet.
