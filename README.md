@@ -6,7 +6,7 @@ Auteurs : Guillaume SOARES, Nathan FIEVEZ et Alexandre VILLAIN
 
 Ce manuel d’utilisation explique comment se servir du BotNet La Forme.
 
-##Table des matières :
+##Table des matières :
 Manuel d’utilisation
 Explication de ce que notre programme peut faire
 Exécution du programme
@@ -14,7 +14,6 @@ L’index du programme
 Le sous Menu “DDOS”
 Le sous Menu “Lister les clients / Reverse SHELL”
 Le sous Menu “Quitter le programme”
-Les conseils des développeurs
 
 ##Explication des fonctionnalités :
 Ce programme permet deux fonctionnalités :
